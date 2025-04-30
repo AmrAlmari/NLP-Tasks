@@ -22,9 +22,10 @@ The notebook covers the following topics:​
 * Topic Modeling
 
 * Word Embeddings
+* Transformer Models
 
 # Note
 
 * The notebook is designed for educational purposes and provides hands-on examples for each NLP task.
 
-Transformer Models)
+
