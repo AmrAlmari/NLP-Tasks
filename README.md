@@ -10,18 +10,22 @@ The notebook covers the following topics:​
 
 * Stopword Removal
 
-Stemming and Lemmatization
+* Stemming and Lemmatization
 
-Vectorization Techniques (e.g., TF-IDF)
+* Vectorization Techniques (e.g., TF-IDF)
 
-Text Classification
+* Text Classification
 
-Sentiment Analysis
+* Sentiment Analysis
 
-Named Entity Recognition (NER)
+* Named Entity Recognition (NER)
 
-Topic Modeling
+* Topic Modeling
 
-Word Embeddings
+* Word Embeddings
+
+# Note
+
+* The notebook is designed for educational purposes and provides hands-on examples for each NLP task.
 
 Transformer Models)
