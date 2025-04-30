@@ -9,7 +9,6 @@ The notebook covers the following topics:​
 * Tokenization
 
 * Stopword Removal
-
 * Stemming and Lemmatization
 
 * Vectorization Techniques (e.g., TF-IDF)
